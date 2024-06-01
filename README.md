@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nguyenlevn33034
-- 👀 I’m interested in AL and ML in Petroleum and Renewable engnergy field
+- 👀 I’m interested in AI and ML in Petroleum and Renewable engnergy field
 - 🌱 I’m currently learning Petroleum Enginnering
 - 💞️ I’m looking to collaborate on applying AL and ML to predict some parameters in Petroleum and Renewable field
 - 📫 How to reach me: linkedln/le-khoi-nguyen-497053250
