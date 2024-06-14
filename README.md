@@ -24,9 +24,8 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </div>
 
 ### Endpoint
