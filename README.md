@@ -31,7 +31,7 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 ## Certifications
 <div>
-<a href="mailto:nguyenlevn33034@gmail.com"><img src="https://img.shields.io/badge/-IBM-052FAD?style=for-the-badge&logo=IBM&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/11nw2sXPUjI9UDhJVBAJaSqqLi0Ti7jqp/view?usp=sharing"><img src="https://img.shields.io/badge/-IBM%20Data%20Analyst%20Specialization-052FAD?style=for-the-badge&logo=IBM&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
