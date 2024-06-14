@@ -24,7 +24,7 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 ### Network
 <div>
-    <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <a href="mailto:nguyenlevn33034@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     <a href="https://www.facebook.com/nguyelevn33034"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </div>
 
