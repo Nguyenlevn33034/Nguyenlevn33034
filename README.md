@@ -32,9 +32,9 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 ## Certifications
 <div>
 <a href="https://drive.google.com/file/d/11nw2sXPUjI9UDhJVBAJaSqqLi0Ti7jqp/view?usp=sharing"><img src="https://img.shields.io/badge/-IBM%20Data%20Analyst%20Specialization-052FAD?style=for-the-badge&logo=IBM&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1agwLOUBhhG8g7-73sZtIdBA5DixAsUjj/view?usp=drive_link"><img src="https://img.shields.io/badge/-WOCRM%20Certificate%20of%20IWCF-1679A7?style=for-the-badge" /></a>
-<a href="https://drive.google.com/file/d/1ziE7r50hrmAoBLXP8eSuFwduvx4HLZTG/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20CWell%20Control%20Level%201-1679A7?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1agwLOUBhhG8g7-73sZtIdBA5DixAsUjj/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20WOCRM%20Certificate-1679A7?style=for-the-badge" /></a>
+<a href="https://drive.google.com/file/d/1ziE7r50hrmAoBLXP8eSuFwduvx4HLZTG/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20Well%20Control%20Level%201-1679A7?style=for-the-badge" /></a>
+<a href="https://drive.google.com/file/d/1xDekx5DOWlGqfFLAGZkcCNYdxgbKIXtJ/view?usp=drive_link"><img src="https://img.shields.io/badge/-Machine%20Learning%20Stanford%20University-1679A7?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
