@@ -14,10 +14,10 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Detailed      |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Petroleum Engineering Background         | Reservoir Engineering, Drilling & Production, Project Management, Well Completion, Petrochemical & Refining, Geostatistic, Enhanced Oil Recovery|
+| Research Interests | Research Proposal Writing, Literature Review, Research Methodologies, Data Collection and Analysis|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
