@@ -7,14 +7,9 @@
 # Hello, I'm CHANGEME
 <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Introduction & Objective
+I am currently pursuing Bachelor's Degree in Petroleum Engineering along with researching about applied Machine Learning (ML) in Energy Sector. I like jobs related to Sustainable and Renewable Energy as my future career, I also have some knowledge in fields like Petroleum and Data Science. Morever, I participate in some contests on above fields and got some certain achievements. I hope in the future I will find a good job related to Data Science in Energy Sector. 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
