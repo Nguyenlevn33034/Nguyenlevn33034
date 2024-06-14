@@ -12,7 +12,6 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Detailed      |
 |-----------------------------------------------|----------------------------|
@@ -22,8 +21,6 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 | Programing/ Structured Languages      | Python, SQL Server, Machine Learning/Deep Learning Libraries (NumPy, Pandas, Scikit-learn, Scipy, PyTorch, TensorFlow)|
 | Visualize/ Modeling tools       | Petrel SLB, CMG (computer modeling group), Microsoft Power BI|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
