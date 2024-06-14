@@ -20,7 +20,6 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 | Research Interests | Research Proposal Writing, Literature Review, Research Methodologies, Data Collection and Analysis|
 | Languages         | Vietnamese (native or bilingual proficiency); English (standard working proficiency)|
 | Programing/ Structured Languages      | Python, SQL Server, Machine Learning/Deep Learning Libraries (NumPy, Pandas, Scikit-learn, Scipy, PyTorch, TensorFlow)|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Visualize/ Modeling tools       | Petrel SLB, CMG (computer modeling group), Microsoft Power BI|
 
 ## Tools
