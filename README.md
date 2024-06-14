@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Nguyenlevn33034
-- 👀 I’m interested in AI and ML in Petroleum and Renewable engnergy field
-- 🌱 I’m currently learning Petroleum Enginnering
-- 💞️ I’m looking to collaborate on applying AL and ML to predict some parameters in Petroleum and Renewable field
-- 📫 How to reach me: linkedln/le-khoi-nguyen-497053250
-
-# Hello, I'm CHANGEME
+# Hello, I'm Nguyen (Nicky) Le Khoi
 <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction & Objective
@@ -40,5 +34,9 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+ - McCabe Thiele Method with Murphree Efficiency using Python and Excel
+ - Hydraulic Flow Unit Clustering and Data Scaler
+ - Modeling for Estimating Flow Parameters in Porous Media using Physics Informed Neural Network
+ - Analyze and Offer Promotions of E-commerce Floor Churn Rate Analysis
+ - World Air Quality Index Analysis using Data Clustering Model
+ - AQI Analysis Report using Kriging Interpolation Method
