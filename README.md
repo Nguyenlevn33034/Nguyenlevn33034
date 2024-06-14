@@ -18,7 +18,9 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 |-----------------------------------------------|----------------------------|
 | Petroleum Engineering Background         | Reservoir Engineering, Drilling & Production, Project Management, Well Completion, Petrochemical & Refining, Geostatistic, Enhanced Oil Recovery|
 | Research Interests | Research Proposal Writing, Literature Review, Research Methodologies, Data Collection and Analysis|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Languages         | Vietnamese (native or bilingual proficiency)
+English (standard working proficiency)
+|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
