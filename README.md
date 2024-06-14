@@ -35,7 +35,8 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 <a href="https://drive.google.com/file/d/1agwLOUBhhG8g7-73sZtIdBA5DixAsUjj/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20WOCRM%20Certificate-1679A7?style=for-the-badge" /></a>
 <a href="https://drive.google.com/file/d/1ziE7r50hrmAoBLXP8eSuFwduvx4HLZTG/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20Well%20Control%20Level%201-1679A7?style=for-the-badge" /></a>
 <a href="https://drive.google.com/file/d/1xDekx5DOWlGqfFLAGZkcCNYdxgbKIXtJ/view?usp=drive_link"><img src="https://img.shields.io/badge/-Machine%20Learning%20Stanford%20University-1679A7?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1xDekx5DOWlGqfFLAGZkcCNYdxgbKIXtJ/view?usp=drive_link"><img src="https://img.shields.io/badge/-Machine%20Learning%20Stanford%20University-8C1515?style=for-the-badge&logo=Stanford&logoColor=white" /></a>
+
 </div>
 
 ## Projects
