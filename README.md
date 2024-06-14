@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on applying AL and ML to predict some parameters in Petroleum and Renewable field
 - 📫 How to reach me: linkedln/le-khoi-nguyen-497053250
 
-# Hello, I'm LE KHOI NGUYEN
-<a href="[https://www.linkedin.com/in/nguyenlevn33034/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
