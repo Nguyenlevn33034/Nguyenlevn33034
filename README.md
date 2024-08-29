@@ -25,6 +25,11 @@ I am currently pursuing Bachelor of Petroleum Engineering with research on appli
 ## Certifications
 •	Petroleum Engineering Background: Well Control Level 1, Well Operations Crew Resource Management, Reservoir Modeling Fundamentals.
 •	Data Science Background: Machine Learning, Deep Learning, IBM Data Analytics, IBM Data Science, Data Analyst Career Kickstart (MindX Technology School).	
+| Certifications                                         | Detailed      |
+|-----------------------------------------------|----------------------------|
+| Petroleum Engineering Background         | Well Control Level 1, Well Operations Crew Resource Management, Reservoir Modeling Fundamentals.|
+| Data Science Background | Machine Learning, Deep Learning, IBM Data Analytics, IBM Data Science, Data Analyst Career Kickstart (MindX Technology School)|
+
 
 ## Projects
  - Evaluation of the influence of salinity and changes in ion concentration in low salinity water (LSW) on Oil Recovery factor
