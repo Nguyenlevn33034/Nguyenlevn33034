@@ -2,8 +2,7 @@
 <a href="https://linkedin.com//in/nguyenlevn33034/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction & Objective
-I am currently pursuing Bachelor's Degree in Petroleum Engineering along with researching about applied Machine Learning (ML) in Energy Sector. I like jobs related to Sustainable and Renewable Energy as my future career, I also have some knowledge in fields like Petroleum and Data Science. Morever, I participate in some contests on above fields and got some certain achievements. I hope in the future I will find a good job related to Data Science in Energy Sector. 
-
+I am currently pursuing Bachelor of Petroleum Engineering with research on application of Machine Learning and simulation software in enhanced oil recovery (EOR). I am interested in jobs related to Sustainable Energy and Renewable Energy as my future career, I also have some knowledge in fields such as Petroleum and Data Science. Moreover, I have participated in some competitions on the above fields and achieved certain achievements. I hope in the future I will find a good job related to simulation/data science in the Energy Industry.
 
 ## Skills
 
@@ -24,16 +23,11 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 
 ## Certifications
-<div>
-<a href="https://drive.google.com/file/d/1hBuz1GB1KhDwRXOabiTD3CAehC3DrTAJ/view?usp=drive_link"><img src="https://img.shields.io/badge/-Data%20Analyst%20Kickstart%20Career-8B0000?style=for-the-badge&logoColor=black" /></a>
-<a href="https://drive.google.com/file/d/11nw2sXPUjI9UDhJVBAJaSqqLi0Ti7jqp/view?usp=sharing"><img src="https://img.shields.io/badge/-IBM%20Data%20Analyst%20Specialization-052FAD?style=for-the-badge&logo=IBM&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1agwLOUBhhG8g7-73sZtIdBA5DixAsUjj/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20WOCRM%20Certificate-1679A7?style=for-the-badge" /></a>
-<a href="https://drive.google.com/file/d/1ziE7r50hrmAoBLXP8eSuFwduvx4HLZTG/view?usp=drive_link"><img src="https://img.shields.io/badge/-IWCF%20Well%20Control%20Level%201-1679A7?style=for-the-badge" /></a>
-<a href="https://drive.google.com/file/d/1xDekx5DOWlGqfFLAGZkcCNYdxgbKIXtJ/view?usp=drive_link"><img src="https://img.shields.io/badge/-Machine%20Learning%20Stanford%20University-8C1515?style=for-the-badge&logo=Stanford&logoColor=white" /></a>
-
-</div>
+•	Petroleum Engineering Background: Well Control Level 1, Well Operations Crew Resource Management, Reservoir Modeling Fundamentals.
+•	Data Science Background: Machine Learning, Deep Learning, IBM Data Analytics, IBM Data Science, Data Analyst Career Kickstart (MindX Technology School).	
 
 ## Projects
+ - Evaluation of the influence of salinity and changes in ion concentration in low salinity water (LSW) on Oil Recovery factor
  - McCabe Thiele Method with Murphree Efficiency using Python and Excel
  - Hydraulic Flow Unit Clustering and Data Scaler
  - Modeling for Estimating Flow Parameters in Porous Media using Physics Informed Neural Network
