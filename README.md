@@ -9,11 +9,11 @@ I am currently pursuing Bachelor's Degree in Petroleum Engineering along with re
 
 | Skill                                         | Detailed      |
 |-----------------------------------------------|----------------------------|
-| Petroleum Engineering Background         | Reservoir Engineering, Drilling & Production, Project Management, Well Completion, Petrochemical & Refining, Geostatistic, Enhanced Oil Recovery|
-| Research Interests | Research Proposal Writing, Literature Review, Research Methodologies, Data Collection and Analysis|
-| Languages         | Vietnamese (native or bilingual proficiency); English (standard working proficiency)|
-| Programing/ Structured Languages      | Python, SQL Server, Machine Learning/Deep Learning Libraries (NumPy, Pandas, Scikit-learn, Scipy, PyTorch, TensorFlow)|
-| Visualize/ Modeling tools       | Petrel SLB, CMG (computer modeling group), Microsoft Power BI|
+| Petroleum Engineering Background         | Proven track record in modeling and evaluating Oil Recovery of various reservoir types using EOR methods, including sandstone and carbonate reservoirs.|
+| Machine Learning/ Deep Learning | Proficient in developing and applying machine learning algorithms (supervised & unsupervised) to diverse domains (production rate, corrosion rate & wax formation in pipeline). Expert in Python (Scikit-learn, NumPy, Pandas, Deep Neural Networks).|
+| Software         | CMG (computer modeling group), t-Navigator, Petrel SLB, Eclipse SLB.|
+| Programing/ Structured Languages      | Python, MATLAB, SQL Server, Microsoft Power BI.|
+| Languages       | Vietnamese (native or bilingual proficiency); English (standard working proficiency).|
 
 
 ### Network
